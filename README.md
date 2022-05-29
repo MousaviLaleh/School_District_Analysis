@@ -35,7 +35,7 @@ Using bulleted lists and images of DataFrames as support, address the following 
 ### Affects on District Analysis
  ***District Summary - Original***
  ![ds-01.png](/images/ds-01.png)
- <br/>
+ <br/><br/>
  ***District Summary - Updated***
  ![ds-02.png](/images/ds-02.png) 
  <br/>
