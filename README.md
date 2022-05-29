@@ -4,17 +4,19 @@
 
 Analysis on school district performance, provide insights and visualize the results; using Pandas library, Numpy library, and Jupyter Notebook with Python.<br/>
 
-In this project we will work with Maria, the chief data scientist for a city school district, provide the initial analysis based on data collected from many schools and students across the school district.
+In this project we will work with Maria, the chief data scientist for a city school district, to provide the initial analysis based on data collected from many schools and students across the school district.
 The School Board would like to understand various performance metrics at the district and school level. This analysis will assist the school board and superintendent in making decisions regarding the school budgets and priorities.
 
 ## Purpose
 
-While the School Board is pleased with the insight that we have provided, it has been identified that there is some anomalies in the data, in particular in the math and reading scores of the grade Nine students at Thomas High School. 
-In order to ensure these results do not skew the analysis, the entire ninth grade class of Thomas High School have had their scores replaced with NaN.
+While the School Board is pleased with the insights that we have provided, it has been identified that there is some anomalies in the data, in particular in the math and reading scores of the grade 9 students at Thomas High School. 
+In order to ensure these results do not skew the analysis, the entire ninth grade class of Thomas High School have had their scores replaced with NaN. We will now review how this change impacted various parts of the first analysis.
 
 ### Resources
-:card_file_box: Schools Data: [election_results.csv](/Resources/schools_complete.csv)<br/>
-:card_file_box: Students Data Resources : [election_results.csv](/resources/election_results.csv)<br/>
+:card_file_box: Schools Data : [election_results.csv](/Resources/schools_complete.csv)<br/>
+:card_file_box: Students Data : [election_results.csv](/resources/election_results.csv)<br/>
+:card_file_box: Anaconda Software : [64-Bit Graphical Installer](https://www.anaconda.com/products/distribution)<br/>
+
 
 
 ## Analysis Result
