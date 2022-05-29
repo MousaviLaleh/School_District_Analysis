@@ -32,7 +32,7 @@ Using bulleted lists and images of DataFrames as support, address the following 
     <br/>
     
     
-### Affects on District Analysis
+### Impact on District Analysis
  ***District Summary - Original***
  ![ds-01.png](/images/ds-01.png)
  <br/><br/>
@@ -41,7 +41,7 @@ Using bulleted lists and images of DataFrames as support, address the following 
  <br/>
 The change of adding NaN value to all grade 9 of Thomas High School math and reading scores, did not have a large impact on the district summary analysis. It's important to consider there are only 461 students in grade 9 at Thomas High School, and the total student count is 39,170, which is 1.2% of the total student, so removing their math and reading scores can only impact the averages so much. <br/>
 
-### Affects on school summary
+### Impact on school summary
 ***Top Schools - Original***
 ![ps-01.png](/images/ps-01.png)
 <br/><br/>
@@ -60,22 +60,31 @@ The ranking of the bottom schools was not affected by the update, as the metrics
 ### Impact on Math and Reading Scores by Grade
 
 ***Math Scores - Original***
-
 ***Math Scores - Updated***
 
+***Reading Scores - Original***
+***Reading Scores - Updated***
 
 
+### Impact on Scores by School Spending
+***Original***
+***Updated***
 
-### Affect on District Analysis
-
-### Affect on Scores by School Spending
-
-
-### Affect on Scores by School Size
+### Effects on Scores by School Size
+***Original***
+***Updated***
 
 
-### Affect on Scores by School Type
+### Impact on Scores by School Type
+***Original***
+***Updated***
 
 
 ## Summary
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+- District Analysis - changes to all scores by less than 0.5 percentage points (or change by less than 0.5%) - no impact to school or student count.
+- Top School Ranking - no change to ranking, however Thomas High School scores did change, but by less than 1 percentage point (or changed by less than 1%) for each metric.
+- Scores by School Size - changes to Medium (1000-2000) grouping for all scores by less than 0.1 percentage points (or change by less than 0.1%).
+- Scores by School Type - chages to Charter type grouping for all scores by less than 0.1 percentage points (or change by less than 0.1%).
+
+<br/>
