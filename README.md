@@ -13,8 +13,8 @@ While the School Board is pleased with the insights that we have provided, it ha
 In order to ensure these results do not skew the analysis, the entire ninth grade class of Thomas High School have had their scores replaced with NaN. We will now review how this change impacted various parts of the first analysis.
 
 ### Resources
-:card_file_box: Schools Data : [election_results.csv](/Resources/schools_complete.csv)<br/>
-:card_file_box: Students Data : [election_results.csv](/Resources/students_complete.csv)<br/>
+:card_file_box: Schools Data : [schools_complete.csv](/Resources/schools_complete.csv)<br/>
+:card_file_box: Students Data : [students_complete.csv](/Resources/students_complete.csv)<br/>
 :card_file_box: Anaconda Software : [64-Bit Graphical Installer](https://www.anaconda.com/products/distribution)<br/>
 
 
