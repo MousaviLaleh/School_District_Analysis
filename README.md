@@ -51,6 +51,19 @@ The change of adding NaN value to all grade 9 of Thomas High School math and rea
 - The ranking of the top schools including Thomas High School, was not affected by the update.
 - While the average math, reading and overall scores at Thomas High School were impacted with the update, the changes were not enough to change its relative ranking in compare with other schools.
 
+***Bottom Schools - Original***
+
+***Bottom Schools - Updated***
+
+The ranking of the bottom schools was not affected by the update, as the metrics  only impacted at Thomas High School.
+
+### Impact on Math and Reading Scores by Grade
+
+***Math Scores - Original***
+
+***Math Scores - Updated***
+
+
 
 
 ### Affect on District Analysis
