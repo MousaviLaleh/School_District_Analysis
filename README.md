@@ -42,9 +42,11 @@ Using bulleted lists and images of DataFrames as support, address the following 
 The change of adding NaN value to all grade 9 of Thomas High School math and reading scores, did not have a large impact on the district summary analysis. It's important to consider there are only 461 students in grade 9 at Thomas High School, and the total student count is 39,170, which is 1.2% of the total student, so removing their math and reading scores can only impact the averages so much. <br/>
 
 ### Affects on school summary
+***Top Schools - Original***
 ![ps-01.png](/images/ps-01.png)
- <br/><br/>
- ![ps-02.png](/images/ps-02.png)
+<br/><br/>
+***Top Schools - Updated***
+![ps-02.png](/images/ps-02.png)
 
 
 
