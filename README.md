@@ -23,6 +23,11 @@ In order to ensure these results do not skew the analysis, the entire ninth grad
 
 Using bulleted lists and images of DataFrames as support, address the following questions:
     How is the district summary affected?
+    District Summary - Original
+    ![ds-01.png](/images/ds-01.png)
+    
+    District Summary - Updated
+    ![ds-02.png](/images/ds-02.png)
     
     How is the school summary affected?
     How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
