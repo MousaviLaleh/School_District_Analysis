@@ -19,7 +19,7 @@ In order to ensure these results do not skew the analysis, the entire scores of 
 
 
 
-## Analysis Result
+## Analysis Results
 Using bulleted lists and images of DataFrames as support, address the following questions:
 - How is the district summary affected?
 - How is the school summary affected?
