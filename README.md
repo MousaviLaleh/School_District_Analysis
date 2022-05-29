@@ -10,7 +10,7 @@ The School Board would like to understand various performance metrics at the dis
 ## Purpose
 
 While the School Board is pleased with the insights that we have provided, it has been identified that there is some anomalies in the data, in particular in the math and reading scores of the grade 9 students at Thomas High School. 
-In order to ensure these results do not skew the analysis, the entire ninth grade class of Thomas High School have had their scores replaced with NaN. We will now review how this change impacted various parts of the first analysis.
+In order to ensure these results do not skew the analysis, the entire scores of ninth grade class of Thomas High School replaced with NaN. We will now review how this change impacted various parts of the first analysis.
 
 ### Resources
 :card_file_box: Schools Data : [schools_complete.csv](/Resources/schools_complete.csv)<br/>
