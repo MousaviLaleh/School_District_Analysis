@@ -14,7 +14,7 @@ In order to ensure these results do not skew the analysis, the entire ninth grad
 
 ### Resources
 :card_file_box: Schools Data : [election_results.csv](/Resources/schools_complete.csv)<br/>
-:card_file_box: Students Data : [election_results.csv](/resources/election_results.csv)<br/>
+:card_file_box: Students Data : [election_results.csv](/Resources/students_complete.csv)<br/>
 :card_file_box: Anaconda Software : [64-Bit Graphical Installer](https://www.anaconda.com/products/distribution)<br/>
 
 
