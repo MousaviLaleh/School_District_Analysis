@@ -30,7 +30,6 @@ Using bulleted lists and images of DataFrames as support, address the following 
     ![ds-02.png](/images/ds-02.png)
     
     
-    
     How is the school summary affected?
     How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
     How does replacing the ninth-grade scores affect the following:
