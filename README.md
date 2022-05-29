@@ -34,12 +34,12 @@ Using bulleted lists and images of DataFrames as support, address the following 
 ### Affects on District Analysis
  _District Summary - Original_
  ![ds-01.png](/images/ds-01.png)
- 
+ <br/>
  _District Summary - Updated_
- ![ds-02.png](/images/ds-02.png)
-    
-    
-    
+ ![ds-02.png](/images/ds-02.png) 
+ <br/>
+The change of adding NaN value to all grade 9 of Thomas High School math and reading scores, did not have a large impact on the district summary analysis. It's important to consider there are only 461 students in grade 9 at Thomas High School, and the total student count is 39,170, which is 1.2% of the total student, so removing their math and reading scores can only impact the averages so much.
+
 
 
 ### Affect on District Analysis
