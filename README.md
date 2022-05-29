@@ -14,6 +14,7 @@ In order to ensure these results do not skew the analysis, the Boad has asked us
 
 ### Resources
 
+
 ## Analysis Result
 
 Using bulleted lists and images of DataFrames as support, address the following questions:
