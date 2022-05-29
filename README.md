@@ -20,18 +20,8 @@ In order to ensure these results do not skew the analysis, the entire ninth grad
 
 
 ## Analysis Result
-
 Using bulleted lists and images of DataFrames as support, address the following questions:
     How is the district summary affected?
-    
-    District Summary - Original
-    ![ds-01.png](/images/ds-01.png)
-    
-    District Summary - Updated
-    
-    ![ds-02.png](/images/ds-02.png)
-    
-    
     How is the school summary affected?
     How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
     How does replacing the ninth-grade scores affect the following:
@@ -39,6 +29,20 @@ Using bulleted lists and images of DataFrames as support, address the following 
     Scores by school spending
     Scores by school size
     Scores by school type
+    <br/>
+    
+### Affects on District Analysis
+ 
+    District Summary - Original
+    
+    ![ds-01.png](/images/ds-01.png)
+    
+    District Summary - Updated
+    
+    ![ds-02.png](/images/ds-02.png)
+    
+    
+    
 
 
 ### Affect on District Analysis
