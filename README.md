@@ -3,6 +3,7 @@
 ## Project Overview
 
 Analysis on school district performance using Pandas and Numpy library, and Jupyter Notebook with Python.<br/>
+
 In this project we will work with Maria, the chief data scientist for a city school district, provide the initial analysis based on data collected from many students and schools across the school district. 
 The School Board would like to understand various performance metrics of the different school districts and schools. While the School Board is pleased with the insight that we have provided, it has been identified that there is some anomalies in the data, in particular in the math and reading scores of the grade nine students at Thomas High School. 
 In order to ensure these results do not skew the analysis, the Boad has asked us to again work with Maria to remove the impact of these results by changing all the grade 9 Thomas High School math and reading scores to Nan ( which is a null value ).
