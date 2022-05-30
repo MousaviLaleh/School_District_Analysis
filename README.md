@@ -67,8 +67,8 @@ The ranking of the bottom schools was not affected by the update, as the metrics
     <th>Updated</th>
   </tr>
   <tr>
-    <td><imag src="images/ms-01.png"></td>
-    <td><imag src="images/ms-02.png"></td>
+    <td><img src="images/ms-01.png"></td>
+    <td><img src="images/ms-02.png"></td>
   </tr>
 </table>
 
