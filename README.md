@@ -61,6 +61,16 @@ The change of adding NaN value to all grade 9 of Thomas High School math and rea
 The ranking of the bottom schools was not affected by the update, as the metrics  only impacted at Thomas High School.
 
 ### Impact on Math and Reading Scores by Grade
+<table>
+  <tr>
+    <th>Original</th>
+    <th>Updated</th>
+  </tr>
+  <tr>
+    <td>![ms-01.png](/images/ms-01.png)</td>
+    <td>![ms-02.png](/images/ms-02.png)</td>
+  </tr>
+</table>
 
 ***Math Scores - Original***  - - - - -   ***Math Scores - Updated***
 
