@@ -15,7 +15,7 @@ In order to ensure these results do not skew the analysis, the entire scores of 
 ### Resources
 :card_file_box: Schools Data : [schools_complete.csv](/Resources/schools_complete.csv)<br/>
 :card_file_box: Students Data : [students_complete.csv](/Resources/students_complete.csv)<br/>
-:card_file_box: Anaconda : [64-Bit Graphical Installer](https://www.anaconda.com/products/distribution)<br/>
+:card_file_box: Anaconda : [Anaconda 64-Bit Graphical Installer](https://www.anaconda.com/products/distribution)<br/>
 
 <br/>
 
