@@ -41,8 +41,12 @@ Using bulleted lists and images of DataFrames as support, address the following 
  ![ds-02.png](/images/ds-02.png) 
  <br/>
 The change of adding NaN value to all grade 9 of Thomas High School math and reading scores, did not have a large impact on the district summary analysis. It's important to consider there are only 461 students in grade 9 at Thomas High School, and the total student count is 39,170, which is 1.2% of the total student, so removing their math and reading scores can only impact the averages so much. <br/>
+<br/>
+<br/>
+
 
 ### Impact on school summary
+
 ***Top Schools - Original***
 ![ps-01.png](/images/ps-01.png)
 <br/><br/>
@@ -59,6 +63,7 @@ The change of adding NaN value to all grade 9 of Thomas High School math and rea
 ![bs-02.png](/images/bs-02.png)
 <br/>
 The ranking of the bottom schools was not affected by the update, as the metrics  only impacted at Thomas High School.
+<br/>
 <br/>
 
 ### Impact on Math and Reading Scores by Grade
@@ -93,9 +98,12 @@ The ranking of the bottom schools was not affected by the update, as the metrics
 <br/>
 
 The only score that is impacted on this DataFrame is that the grade 9 students at Thomas High School have Nan instead of a grade for both math and reading. If we ran a sum or mean of the DataFrame, we would see a difference between the orignal and updated.
+<br/>
+<br/>
 
 ### Impact on Scores by School Spending
 ***Original***
+
 ***Updated***
 
 ### Effects on Scores by School Size
