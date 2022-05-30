@@ -71,6 +71,7 @@ The ranking of the bottom schools was not affected by the update, as the metrics
 
 ***Reading Scores - Original***
 ![rs-01.png](/images/rs-01.png)
+
 ***Reading Scores - Updated***
 ![rs-02.png](/images/rs-02.png)
 <br/>
