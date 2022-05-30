@@ -120,6 +120,7 @@ There was a slight change in this score for the $630-644 group, where Thomas Hig
 <br/>
 The scores for the Medium size schools changed slightly which Thomas High School included in this group as it has 1,635 students who attend, including the grade 9 students.
 <br/>
+<br/>
 
 ### Impact on Scores by School Type
 
