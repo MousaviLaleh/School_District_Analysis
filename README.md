@@ -64,10 +64,12 @@ The ranking of the bottom schools was not affected by the update, as the metrics
 <table align="center">
   <tr>
     <th>Math Scores - Original</th>
+    <th></th>
     <th>Math Scores - Updated</th>
   </tr>
   <tr>
     <td><img src="images/ms-01.png"></td>
+    <th></th> 
     <td><img src="images/ms-02.png"></td>
   </tr>
 </table>
