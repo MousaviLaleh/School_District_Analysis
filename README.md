@@ -132,10 +132,10 @@ The scores for the Medium size schools changed slightly which Thomas High School
 ### Impact on Scores by School Type
 
 ***Original***
-![sp-01.png](/images/sp-01.png)
+![st-01.png](/images/st-01.png)
 
 ***Updated***
-![sp-02.png](/images/sp-02.png)
+![st-02.png](/images/st-02.png)
 
 <br/>
 Thomas High School is a Charter type school, so this is why we see changes to the scores for Charter, but no changes to District type school scores and no other school scores were affected.
