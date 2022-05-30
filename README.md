@@ -134,7 +134,7 @@ The scores for the Medium size schools changed slightly which Thomas High School
 Thomas High School is a Charter type school, so this is why we see changes to the scores for Charter, but no changes to District type school scores and no other school scores were affected.
 
 ## Summary
-The updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs:
+The updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 - District Analysis : The district as a whole has also had its average math and reading scores decrease, as well as the passing percentages for students.
 - Top School Ranking : No change to ranking, however Thomas High School scores did change in the passing rate and average grades.
