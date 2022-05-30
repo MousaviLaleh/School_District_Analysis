@@ -70,7 +70,9 @@ The ranking of the bottom schools was not affected by the update, as the metrics
 <br/>
 
 ***Reading Scores - Original***
+![rs-01.png](/images/rs-01.png)
 ***Reading Scores - Updated***
+![rs-02.png](/images/rs-02.png)
 <br/>
 The only score that is impacted on this DataFrame is that the grade 9 students at Thomas High School have Nan instead of a grade for both math and reading. If we ran a sum or mean of the DataFrame, we would see a difference between the orignal and updated.
 
