@@ -103,6 +103,7 @@ The only score that is impacted on this DataFrame is that the grade 9 students a
 ### Impact on Scores by School Spending
 
 ***Original***
+
 ![sps-01.png](/images/sps-01.png)
 
 ***Updated***
