@@ -20,7 +20,7 @@ In order to ensure these results do not skew the analysis, the entire scores of 
 <br/>
 
 ## Analysis Results 
-    
+<br/>
 ### Impact on District Analysis
 
  ***District Summary - Original***
