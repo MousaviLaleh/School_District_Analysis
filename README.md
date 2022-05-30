@@ -96,7 +96,7 @@ The ranking of the bottom schools was not affected by the update, as the metrics
 </table>
 <br/>
 
-The only score that is impacted on this DataFrame is that the grade 9 students at Thomas High School have Nan instead of a grade for both math and reading. If we ran a sum or mean of the DataFrame, we would see a difference between the orignal and updated.
+The only score that is impacted on this DataFrame is the grade 9 students at Thomas High School that have Nan instead of a grade for both math and reading. If we ran a sum or mean of the DataFrame, we would see a difference between the orignal and updated.
 <br/>
 <br/>
 
@@ -127,7 +127,7 @@ There was a slight change in this score for the $630-644 group, where Thomas Hig
 
 ![ss-02.png](/images/ss-02.png)
 <br/>
-The scores for the Medium size schools changed slightly; they were impacted as Thomas High School included in this group as it has 1,635 students who attend (including the grade 9 students).
+The scores for the Medium size schools changed slightly that Thomas High School included in this group as it has 1,635 students who attend, including the grade 9 students.
 
 ### Impact on Scores by School Type
 ***Original***
