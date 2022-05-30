@@ -62,13 +62,9 @@ The ranking of the bottom schools was not affected by the update, as the metrics
 
 ### Impact on Math and Reading Scores by Grade
 
-***Math Scores - Original***
+***Math Scores - Original***  - - - - -   ***Math Scores - Updated***
 
-![ms-01.png](/images/ms-01.png)
-
-***Math Scores - Updated***
-
-![ms-02.png](/images/ms-02.png)
+![ms-01.png](/images/ms-01.png)  - - - - -  ![ms-02.png](/images/ms-02.png)
 <br/>
 
 
