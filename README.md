@@ -61,7 +61,7 @@ The change of adding NaN value to all grade 9 of Thomas High School math and rea
 The ranking of the bottom schools was not affected by the update, as the metrics  only impacted at Thomas High School.
 
 ### Impact on Math and Reading Scores by Grade
-***Math Scores***
+***- Math Scores***
 
 <table align="center">
   <tr>
@@ -77,14 +77,20 @@ The ranking of the bottom schools was not affected by the update, as the metrics
 <br/>
 
 
-***Reading Scores - Original***
+***- Reading Scores***
 
-![rs-01.png](/images/rs-01.png)
-
-***Reading Scores - Updated***
-
-![rs-02.png](/images/rs-02.png)
+<table align="center">
+  <tr>
+    <th>- Original -</th>
+    <th>- Updated -</th>
+  </tr>
+  <tr>
+    <td><img src="images/rs-01.png"></td>
+    <td><img src="images/rs-02.png"></td>
+  </tr>
+</table>
 <br/>
+
 The only score that is impacted on this DataFrame is that the grade 9 students at Thomas High School have Nan instead of a grade for both math and reading. If we ran a sum or mean of the DataFrame, we would see a difference between the orignal and updated.
 
 ### Impact on Scores by School Spending
