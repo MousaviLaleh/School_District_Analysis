@@ -115,9 +115,17 @@ There was a slight change in this score for the $630-644 group, where Thomas Hig
 <br/>
 <br/>
 
+
 ### Effects on Scores by School Size
+
 ***Original***
+
+![ss-01.png](/images/ss-01.png)
+<br/>
+
 ***Updated***
+
+![ss-02.png](/images/ss-02.png)
 
 
 ### Impact on Scores by School Type
