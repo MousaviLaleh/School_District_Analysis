@@ -101,11 +101,15 @@ The only score that is impacted on this DataFrame is that the grade 9 students a
 <br/>
 
 ### Impact on Scores by School Spending
+
 ***Original***
 ![sps-01.png](/images/sps-01.png)
+
 ***Updated***
+
 ![sps-02.png](/images/sps-02.png)
 <br/>
+
 There was a slight change in this score for the $630-644 group, where Thomas High School is grouped, however the change is small with each metric changing.
 <br/>
 <br/>
