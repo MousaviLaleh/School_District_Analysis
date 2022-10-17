@@ -20,9 +20,9 @@ After a school board found evidence of academic dishonesty among the grades of o
 3. Describe how these changes affect the overall analysis.
 
 ### Resources
-:card_file_box: Schools Data : [schools_complete.csv](/Resources/schools_complete.csv)<br/>
-:card_file_box: Students Data : [students_complete.csv](/Resources/students_complete.csv)<br/>
-:card_file_box: Anaconda : [Anaconda 64-Bit Graphical Installer](https://www.anaconda.com/products/distribution)<br/>
+- Schools Data:&nbsp; [schools_complete.csv](/Resources/schools_complete.csv)<br/>
+- Students Data:&nbsp; [students_complete.csv](/Resources/students_complete.csv)<br/>
+- Anaconda:&nbsp; [Anaconda 64-Bit Graphical Installer](https://www.anaconda.com/products/distribution)<br/>
 
 <br/>
 
