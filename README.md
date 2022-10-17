@@ -2,12 +2,11 @@
 
 ## Project Overview
 
-Analysis on school district performance, provide insights and visualize the results using Numpy.<br/>
+Analysis on school district performance, provide insights and visualize the results using <b>Numpy</b>.<br/>
 In this project we will provide the initial analysis based on data collected from many schools and students across the school district.
 The School Board would like to understand various performance metrics at the district and school level. This analysis will assist the school board and superintendent in making decisions regarding the school budgets and priorities.
 
 ## Purpose
-
 After a school board found evidence of academic dishonesty among the grades of one of the district schools, a chief data scientist for the city school district has given us the following tasks to complete the school district data analysis.
 
 1. Replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact.
