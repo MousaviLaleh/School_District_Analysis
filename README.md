@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Analysis on school district performance, provide insights and visualize the results; using Pandas library, Numpy library, and Jupyter Notebook with Python.<br/>
+Analysis on school district performance, provide insights and visualize the results using Numpy.<br/>
 In this project we will provide the initial analysis based on data collected from many schools and students across the school district.
 The School Board would like to understand various performance metrics at the district and school level. This analysis will assist the school board and superintendent in making decisions regarding the school budgets and priorities.
 
