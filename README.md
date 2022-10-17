@@ -3,14 +3,22 @@
 ## Project Overview
 
 Analysis on school district performance, provide insights and visualize the results; using Pandas library, Numpy library, and Jupyter Notebook with Python.<br/>
-
-In this project we will work with Maria, the chief data scientist for a city school district, to provide the initial analysis based on data collected from many schools and students across the school district.
+In this project we will provide the initial analysis based on data collected from many schools and students across the school district.
 The School Board would like to understand various performance metrics at the district and school level. This analysis will assist the school board and superintendent in making decisions regarding the school budgets and priorities.
 
 ## Purpose
 
-While the School Board is pleased with the insights that we have provided, it has been identified that there is some anomalies in the data, in particular in the math and reading scores of the grade 9 students at Thomas High School. 
-In order to ensure these results do not skew the analysis, the entire scores of ninth grade class of Thomas High School replaced with NaN. We will now review how this change impacted various parts of the first analysis.
+After a school board found evidence of academic dishonesty among the grades of one of the district schools, a chief data scientist for the city school district has given us the following tasks to complete the school district data analysis.
+
+1. Replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact.
+2. Repeat the school district analysis and recreate the following metrics:
+ - The district summary
+ - The school summary
+ - The top 5 and bottom 5 performing schools, based on the overall passing rate
+ - The average math score for each grade level from each school
+ - The average reading score for each grade level from each school
+ - The scores by school spending per student, by school size, and by school type.
+3. Describe how these changes affect the overall analysis.
 
 ### Resources
 :card_file_box: Schools Data : [schools_complete.csv](/Resources/schools_complete.csv)<br/>
